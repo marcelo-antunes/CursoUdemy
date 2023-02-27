@@ -1,5 +1,0 @@
-Texto escrito no arquivo remoto.
-
-Nova edição
-
-Texto inserido no arquivo local
