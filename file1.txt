@@ -1,1 +1,3 @@
 Texto escrito no arquivo remoto.
+
+Nova edição
